@@ -1,4 +1,4 @@
-package com.github.wosniuxx.httpmanage.toolWindow
+package com.hm.toolWindow
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.diagnostic.thisLogger
@@ -8,8 +8,8 @@ import com.intellij.openapi.wm.ToolWindowFactory
 import com.intellij.ui.components.JBLabel
 import com.intellij.ui.components.JBPanel
 import com.intellij.ui.content.ContentFactory
-import com.github.wosniuxx.httpmanage.MyBundle
-import com.github.wosniuxx.httpmanage.services.MyProjectService
+import com.hm.MyBundle
+import com.hm.services.MyProjectService
 import javax.swing.JButton
 
 

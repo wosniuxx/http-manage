@@ -1,9 +1,9 @@
-package com.github.wosniuxx.httpmanage.services
+package com.hm.services
 
 import com.intellij.openapi.components.Service
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
-import com.github.wosniuxx.httpmanage.MyBundle
+import com.hm.MyBundle
 
 @Service(Service.Level.PROJECT)
 class MyProjectService(project: Project) {

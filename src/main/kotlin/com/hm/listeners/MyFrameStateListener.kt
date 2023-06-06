@@ -1,4 +1,4 @@
-package com.github.wosniuxx.httpmanage.listeners
+package com.hm.listeners
 
 import com.intellij.ide.FrameStateListener
 import com.intellij.openapi.diagnostic.thisLogger

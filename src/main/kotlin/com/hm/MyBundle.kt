@@ -1,4 +1,4 @@
-package com.github.wosniuxx.httpmanage
+package com.hm
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
